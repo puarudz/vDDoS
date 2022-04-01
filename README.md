@@ -1,36 +1,9 @@
-<div alt="vDDoS Proxy Protection Logo" class="separator" style="clear: both; text-align: center;">
-<a href="https://lh3.googleusercontent.com/-OGKhMCGE8z8/YjRqfduLNbI/AAAAAAAADBo/BW2y2DLvp3ENp-13sRacxkIAJ8SxqAXBQCNcBGAsYHQ/s1600/vDDoS-proxy-protection.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img align="right" border="0" src="https://lh3.googleusercontent.com/-OGKhMCGE8z8/YjRqfduLNbI/AAAAAAAADBo/BW2y2DLvp3ENp-13sRacxkIAJ8SxqAXBQCNcBGAsYHQ/s222/vDDoS-proxy-protection.png" /></a></div>
-
-vDDoS Proxy Protection
-===================
-
-
-Welcome to vDDoS, a HTTP(S) DDoS Protection Reverse Proxy. Thank you for using!
-
-Homepage: http://vddos.voduy.com
-
-----------
-
-
-System Requirement
--------------
-
-* CentOS Server 5/6/7/8 x86_64
-* CloudLinux Server 5/6/7/8 x86_64
-* CentOS Stream Server 7/8 x86_64
-* CloudLinux Server 5/6/7/8 x86_64
-* AlmaLinux 8 x86_64
-* RockyLinux 8 x86_64
-* RedHat 5/6/7/8 x86_64
-* Ubuntu Server LTS 18/20 x86_64
-* Debian Server 9/10/11 x86_64
-
 Install
 -------------
 
 Install vDDoS Proxy Protection Latest Version:
 ```
-wget https://raw.githubusercontent.com/duy13/vDDoS-Protection/master/latest.sh ; chmod 700 latest.sh ; bash latest.sh
+wget https://raw.githubusercontent.com/puarudz/vDDoS/master/latest.sh ; chmod 700 latest.sh ; bash latest.sh
 
 
 
@@ -43,12 +16,3 @@ wget https://raw.githubusercontent.com/duy13/vDDoS-Protection/master/latest.sh ;
 ________________________________________________________
 Enter your choice [1, 2, 3 or 0]: 
 ```
-Details of installation and usage check at homepage: http://vddos.voduy.com
-
-More Config:
----------------
-Document: http://vddos.voduy.com
-```
-Still in beta, use at your own risk! It is provided without any warranty!
-```
-
